@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-stack development**
 
-- 📫 How to reach me **ihababoughannam@gmail..com**
+- 📫 How to reach me **ihababoughannam@gmail.com**
 
 - ⚡ Fun fact **I love pizza**
 
