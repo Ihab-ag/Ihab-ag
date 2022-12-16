@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Myself :)**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **ihababoughannam@gmail.com**
 
