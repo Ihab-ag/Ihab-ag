@@ -4,7 +4,7 @@
 
 ## <img height="40" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7948d7f-37fa-43f3-b3ad-69390c3ec4ce/d6b3l7g-c8aa2c72-3233-4e86-bb2f-c273cf58e739.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3OTQ4ZDdmLTM3ZmEtNDNmMy1iM2FkLTY5MzkwYzNlYzRjZVwvZDZiM2w3Zy1jOGFhMmM3Mi0zMjMzLTRlODYtYmIyZi1jMjczY2Y1OGU3MzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.69YO8IOy6hEVC9DvtbXQUhblAxIOAqFsAT4goYlZX_k"/> A highly motivated junior developer
 
-- 🔭 I’m currently working on **Myself :)**
+- 🔭 I’m currently working on **Colaborative drawing website :)**
 
 - 🌱 I’m currently learning **NextJs**
 
